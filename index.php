@@ -9,5 +9,9 @@
 	echo "Hello world!";
 	echo "Hello world!";
 	
+	$aaa=23;
+	echo "berat badan saya adalah" .$aaa. "kg
+
+		";
 
 ?>
